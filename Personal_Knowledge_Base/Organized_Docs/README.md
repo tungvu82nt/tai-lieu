@@ -1,64 +1,50 @@
-# 📁 Kho Tài Liệu Cá Nhân - Đã Sắp Xếp Theo Chủ Đề
+# 📁 Kho Tài Liệu Cá Nhân - Đã Sắp Xếp
 
-Chào mừng bạn đến với kho tài liệu cá nhân đã được sắp xếp lại theo chủ đề với tên thư mục bằng tiếng Việt!
+Chào mừng bạn đến với kho tài liệu cá nhân đã được sắp xếp theo chủ đề!
 
 ## 📂 Cấu Trúc Thư Mục
 
-### 🤖 **AI_HocMay** (22 files) - Trí Tuệ Nhân Tạo & Học Máy
-Các tài liệu về:
-- Công cụ AI (ChatGPT, Claude, Gemini, v.v.)
-- Học máy và deep learning
-- Tạo nội dung AI (hình ảnh, video, âm thanh)
-- AI agents và chatbots
-- Lập trình với AI
+### 🤖 AI & Học Máy (124 files)
+Các tài liệu về trí tuệ nhân tạo và học máy
 
-### 🛡️ **BaoMatMang** (20 files) - Bảo Mật Mạng
-Các tài liệu về:
-- Công cụ bảo mật và pentesting
-- Vulnerability scanning
-- Network security
-- Ethical hacking tools
-- Security best practices
+**Chủ đề:** ChatGPT, Claude, Gemini, AI Tools, Machine Learning
 
-### 💻 **PhatTrien** (9 files) - Phát Triển Phần Mềm
-Các tài liệu về:
-- Công cụ phát triển web
-- IoT platforms
-- OSINT tools
-- GitHub projects
-- Development tutorials
+### 🛡️ Bảo Mật Mạng (42 files)
+Các tài liệu về bảo mật và an ninh mạng
 
-### ☁️ **DamMay_HaTang** (7 files) - Đám Mây & Hạ Tầng
-Các tài liệu về:
-- Cloud hosting (AWS, Google Cloud, Alibaba)
-- Serverless computing
-- Infrastructure as Code
-- DevOps tools
+**Chủ đề:** Penetration Testing, Vulnerability, Malware, Network Security
 
-### 📊 **KhoaHocDuLieu** (2 files) - Khoa Học Dữ Liệu
-Các tài liệu về:
-- Python libraries cho data science
-- Datasets và machine learning
-- Data analysis tools
-- Statistical modeling
+### 💻 Phát Triển Phần Mềm (32 files)
+Các tài liệu về phát triển phần mềm
 
-### 📚 **HuongDan_TongHop** (10 files) - Hướng Dẫn Tổng Hợp
-Các tài liệu về:
-- Kali Linux installation
-- Programming tutorials
-- Security case studies
-- Technology guides
+**Chủ đề:** Web Development, OSINT Tools, GitHub Projects, Programming
+
+### ☁️ Đám Mây & Hạ Tầng (8 files)
+Các tài liệu về đám mây và hạ tầng
+
+**Chủ đề:** AWS, Google Cloud, Docker, Kubernetes
+
+### 📊 Khoa Học Dữ Liệu (2 files)
+Các tài liệu về khoa học dữ liệu
+
+**Chủ đề:** Python, Datasets, Machine Learning, Statistics
+
+### 📚 Hướng Dẫn Tổng Hợp (15 files)
+Các hướng dẫn và tài liệu tổng hợp
+
+**Chủ đề:** Tutorials, Guides, Documentation
 
 ## 📊 Thống Kê
-- **Tổng số file**: 73 files
+- **Tổng số file**: 229 files
+- **Số thư mục**: 6 categories
 - **Đã sắp xếp**: ✅ Hoàn thành
-- **Ngôn ngữ chính**: Tiếng Trung, Tiếng Anh
-- **Cập nhật gần nhất**: 2025
+- **Cập nhật gần nhất**: 07/09/2025
 
 ## 🔍 Cách Sử Dung
 1. Chọn thư mục theo chủ đề bạn quan tâm
-2. Duyệt qua các file markdown
-3. Sử dụng tìm kiếm để tìm nội dung cụ thể
+2. Đọc README.md trong từng thư mục để biết thêm chi tiết
+3. Duyệt qua các file markdown
+4. Sử dụng tìm kiếm để tìm nội dung cụ thể
 
 ---
-*Được sắp xếp tự động vào ngày 7/9/2025*
+*Tự động sắp xếp bởi File Organizer vào 07/09/2025 06:03*
